@@ -56,7 +56,6 @@ Using: `COUNTIFS(Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<=4999.99",Kickst
 
 Instead of: `COUNTIFS(Kickstarter!D:D,">=1000",Kickstarter!D:D,"<=4999.99",Kickstarter!H:H,"successful",Kickstarter!T:T,"plays")`
 
----
 ## Analysis of the data
 ---
 ### Outcomes Based on Launch Date
