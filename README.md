@@ -18,3 +18,5 @@ The above, data points will provide insight into how to position our campaign la
 ### Analyzing outcomes based on launch date
 
 For the purposes of the launch date analysis, a key requirement was to add a new column of data labeled "Years" based on the date created conversion tab. This element of data filtering was important to enable cleaner pivot table analysis.
+
+![Years_Column_Creation](/Other/Year_Column_Creation.png)
