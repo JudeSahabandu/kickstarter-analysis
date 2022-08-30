@@ -34,5 +34,15 @@ This enabled the following format of the Pivot Table;
 
 ![Launch_Date_Outcome](/Other/Theater_Outcomes_Based_On_Launch_Dates.png) 
 
+---
+### Analyzing outcomes based on goals
+
+The next analysis was to determine outcomes based on project goals, for this analysis it was required to use the `COUNTIFS` function.
+
+An example of the formula used to determine the count of successful, failed and canceled campaigns is as follows; (formula can be found in cell B3 on the "Outcomes Based On Goals Worksheet)
+
+`COUNTIFS(Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<=4999.99",Kickstarter!$F:$F,"successful",Kickstarter!$R:$R,"plays")` 
+
+![Goal_Outcomes](/Other/Outcomes_Based_On_Goals.png)
 
 
