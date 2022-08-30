@@ -55,3 +55,18 @@ The key lesson learnt through structuring the data table for the outcomes based 
 Using: `COUNTIFS(Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<=4999.99",Kickstarter!$H:$H,"successful",Kickstarter!$T:$T,"plays")`
 
 Instead of: `COUNTIFS(Kickstarter!D:D,">=1000",Kickstarter!D:D,"<=4999.99",Kickstarter!H:H,"successful",Kickstarter!T:T,"plays")`
+
+---
+## Analysis of the data
+---
+### Outcomes Based on Launch Date
+
+- Throughout the year, failure of outcome is very consistent. Although, total campaigns launched between May to July increases causing the propensity (%) to fail drop. 
+- Based on the above, the best time to launch a campaign is during the early summer months. But regional based data may be required to verify this. (To determine if the inverse is true for Southern Hemisphere countries compared to Northern hemisphere countries).
+- The analysis is very clear that the tail end and start of a year are the least plausible times to launch a successful campaign.
+
+### Outcomes Based on Goals
+
+- It is evident that campaigns with lower goals tend to have a higher success rate. Where almost 3 out of 4 campaigns ended up being successful where the campaign goal was below 5000.
+- Half the total campaigns for plays tend to have a campaign goal below 5000, which may indicate most creators are targeting a 5000 budget or are confident that a play can be funded with a budget of 5000.
+
