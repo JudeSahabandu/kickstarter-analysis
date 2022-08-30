@@ -31,3 +31,6 @@ Upon creation of the year tab, a pivot table was generated using the kickstarter
 4. Setting the outcomes column in descending order
 
 This enabled the following format of the Pivot Table;
+
+![Theater_Outcomes_Based_On_Launch_Date(Other/Theater_Outcomes_Based_On_Launch_Date.png)
+
