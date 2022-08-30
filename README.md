@@ -82,6 +82,7 @@ Instead of: `COUNTIFS(Kickstarter!D:D,">=1000",Kickstarter!D:D,"<=4999.99",Kicks
 It is clear that success based on launch date is more evident in the months of May/June/July, which coincide with late Spring and early Summer in the Northern Hemisphere. It is important to determine if the inverse is seen in the Southern Hemisphere to understand the impact of seasonality and to assess if the tropical regions cave a consistent success rate as they are not impacted by seasonality.
 
 Recommendation - Launch Campaign between May-July
+
 Further Analysis - Determine if seasonality plays a factor in campaign launch
 
 ### Outcomes based on goals
@@ -89,4 +90,5 @@ Further Analysis - Determine if seasonality plays a factor in campaign launch
 Further understanding of regional impact is important. Success rate based on campaign goal will change by country, as disposable incomes will vary from country to country. For example, a country with lower disposable income may have a lower campaign success goal threshold when compared to that of a country with higher disposable income.
 
 Recommendation - Set campaign goal to $5000
+
 Further Analysis - Determine if campaign goal threshold changes by country
