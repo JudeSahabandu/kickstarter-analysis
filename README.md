@@ -34,5 +34,7 @@ This enabled the following format of the Pivot Table;
 
 ![Launch_Dates_Outcomes](Theater_Outcomes_Based_On_Launch_Dates.png) 
 
+Other
+
 
 
