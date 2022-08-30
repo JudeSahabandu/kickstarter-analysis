@@ -32,5 +32,7 @@ Upon creation of the year tab, a pivot table was generated using the kickstarter
 
 This enabled the following format of the Pivot Table;
 
-![Theater_Outcomes_Based_On_Launch_Date(Other/Theater_Outcomes_Based_On_Launch_Date.png)
+![Theater_Outcomes_Based_On_Launch_Date(Other/Theater_Outcomes_Based_On_Launch_Dates.png)
+
+
 
