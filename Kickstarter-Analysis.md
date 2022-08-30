@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
----
+
 Louise, a playwriter wishes to raise funding for her play. In order to determine the best approach for raising funds, we are looking at a detailed analysis of past kickstarter data to ascertain the best way forward in raising the required funding.
 ---
 ## Purpose
