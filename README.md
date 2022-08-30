@@ -20,3 +20,14 @@ The above, data points will provide insight into how to position our campaign la
 For the purposes of the launch date analysis, a key requirement was to add a new column of data labeled "Years" based on the date created conversion tab. This element of data filtering was important to enable cleaner pivot table analysis.
 
 ![Years_Column_Creation](/Other/Year_Column_Creation.png)
+
+The excel formula used to derive the year based data was `YEAR()`
+
+Upon creation of the year tab, a pivot table was generated using the kickstarter data. Key inputs to the pivot table configuration are as follows;
+
+1. Data filtering by Year and Parent Category
+2. Filtering Parent Category by the theater category
+3. Setting the columns by the month of the year
+4. Setting the outcomes column in descending order
+
+This enabled the following format of the Pivot Table;
