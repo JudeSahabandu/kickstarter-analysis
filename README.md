@@ -1,5 +1,6 @@
 # Kickstarting with Excel
 ---
+---
 ## Overview of the project
 
 Louise a playwriter wishes to raise funding for her play. In order to determine the best approach for raising funds, we are looking at a detailed analysis of past kickstarter data to ascertain the best way forward in raising the required funding.
@@ -34,7 +35,7 @@ This enabled the following format of the Pivot Table;
 
 ![Launch_Date_Outcome](/Other/Theater_Outcomes_Based_On_Launch_Dates.png) 
 
----
+
 ### Analyzing outcomes based on goals
 
 The next analysis was to determine outcomes based on project goals, for this analysis it was required to use the `COUNTIFS` function.
@@ -45,7 +46,6 @@ An example of the formula used to determine the count of successful, failed and 
 
 ![Goal_Outcomes](/Other/Outcomes_Based_On_Goals.png)
 
----
 ### Challenges
 
 The required analysis was straightforward. The ability to analyze requirement A (Outcomes Based On Launch Dates) through a pivot table was time saving. But, when considering requirement B (Outcomes Based on Goals) using the `COUNTIFS` function and the associated formatting was time consuming.
@@ -73,7 +73,6 @@ Instead of: `COUNTIFS(Kickstarter!D:D,">=1000",Kickstarter!D:D,"<=4999.99",Kicks
 - It is evident that campaigns with lower goals tend to have a higher success rate. Where almost 3 out of 4 campaigns ended up being successful where the campaign goal was below 5000.
 - Half the total campaigns for plays tend to have a campaign goal below 5000, which may indicate most creators are targeting a 5000 budget or are confident that a play can be funded with a budget of 5000.
 
----
 ## Limitations & Recommended Analysis
 ---
 ### Outcomes based on launch date
