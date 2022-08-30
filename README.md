@@ -70,3 +70,13 @@ Instead of: `COUNTIFS(Kickstarter!D:D,">=1000",Kickstarter!D:D,"<=4999.99",Kicks
 - It is evident that campaigns with lower goals tend to have a higher success rate. Where almost 3 out of 4 campaigns ended up being successful where the campaign goal was below 5000.
 - Half the total campaigns for plays tend to have a campaign goal below 5000, which may indicate most creators are targeting a 5000 budget or are confident that a play can be funded with a budget of 5000.
 
+---
+## Limitations & Recommended Analysis
+---
+### Outcomes based on launch date
+
+It is clear that success based on launch date is more evident in the months of May/June/July, which coincide with late Spring and early Summer in the Northern Hemisphere. It is important to determine if the inverse is seen in the Southern Hemisphere to understand the impact of seasonality and to assess if the tropical regions cave a consistent success rate as they are not impacted by seasonality.
+
+### Outcomes based on goals
+
+Further understanding of regional impact is important. Success rate based on campaign goal will change by country, as disposable incomes will vary from country to country. For example, a country with lower disposable income may have a lower campaign success goal threshold when compared to that of a country with higher disposable income.
