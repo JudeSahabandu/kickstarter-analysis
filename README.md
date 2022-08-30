@@ -14,3 +14,7 @@ The purpose of this analysis is to derive insight from 2 key analysis;
 The above, data points will provide insight into how to position our campaign launches based on time of year and the fund amount to raise, as factors within may indicate the success rate of the fundraising campaign.
 
 ## Analysis and Challenges
+---
+### Analyzing outcomes based on launch date
+
+For the purposes of the launch date analysis, a key requirement was to add a new column of data labeled "Years" based on the date created conversion tab. This element of data filtering was important to enable cleaner pivot table analysis.
