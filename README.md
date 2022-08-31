@@ -79,7 +79,7 @@ Instead of: `COUNTIFS(Kickstarter!D:D,">=1000",Kickstarter!D:D,"<=4999.99",Kicks
 
 ### Outcomes based on launch date
 
-It is clear that success based on launch date is more evident in the months of May/June/July, which coincide with late Spring and early Summer in the Northern Hemisphere. It is important to determine if the inverse is seen in the Southern Hemisphere to understand the impact of seasonality and to further assess if any tropical regions have a consistent success rate throughout the year as they are not impacted by seasonality.
+It is clear that success based on launch date is more evident in the months of May/June/July, which coincide with late Spring and early Summer in the Northern Hemisphere. It is important to determine if the inverse is seen in the Southern Hemisphere. Further analysis of any tropical regions may indicate consistent success rate throughout the year as they are not impacted by seasonality.
 
 Recommendation - Launch campaign between May-July
 
