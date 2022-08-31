@@ -12,7 +12,7 @@ The purpose of this report is to derive insight from 2 key analysis;
 1. Determine fundraising outcomes based on the fundraiser launch month
 2. Determine fundraising outcomes based on the monetary goal of the fundraiser
 
-The above, data points will provide insight into how to position our campaign launches based on time of year and the fund amount to raise, as factors within, may indicate the success rate of the fundraising campaign.
+The above data points will provide insight into how to position our campaign launches based on time of year and the fund amount to raise, as factors within may indicate the success rate of the fundraising campaign.
 
 ## Analysis and challenges
 ---
