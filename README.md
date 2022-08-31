@@ -27,7 +27,7 @@ The excel formula used to derive the year based data was `YEAR()`
 
 Upon creation of the year tab, a pivot table was generated using the kickstarter data. Key inputs to the pivot table configuration are as follows;
 
-1. Data filtering by Year and Parent Category
+1. Data filtering by Year and Parent category
 2. Filtering Parent Category by the theater category
 3. Setting the columns by the month of the year
 4. Setting the outcomes column in descending order
@@ -63,23 +63,23 @@ Instead of: `COUNTIFS(Kickstarter!D:D,">=1000",Kickstarter!D:D,"<=4999.99",Kicks
 
 ![Outcomes_based_on_launch_date](/Resources/Theater_Outcomes_vs_Launch.png) 
 
-- Throughout the year, failure of outcome is consistent. But, total campaigns launched between May to July increases causing the (%) propensity to fail decline. 
+- Throughout the year, failure of outcome is consistent. But, total campaigns launched between May to July increases causing the (%) propensity to fail decline in those months. 
 - Based on the above, the best time to launch a campaign is during the early summer months. But regional based data may be required to verify this. (To determine if the inverse is true for Southern Hemisphere countries compared to Northern hemisphere countries).
-- The analysis is very clear that the end and start of a year are the least favorable months to launch a successful campaign.
+- The analysis is very clear that the start and end of the year are the least favorable months to launch a successful campaign.
 
 ### Outcomes based on goals
 
 ![Outcomes_based_on_goals](/Resources/Outcomes_vs_Goals.png) 
 
 - It is evident that campaigns with lower goals tend to have a higher success rate. Where almost 3 out of 4 campaigns ended up being successful where the campaign goal was below $5000.
-- Half the total campaigns for plays tend to have a campaign goal below $5000, which may indicate most play writers are targeting a $5000 budget or are confident that a play can be funded under a budget of $5000.
+- Half the total campaigns for plays tend to have a campaign goal below $5000, which may indicate most play writers are targeting a $5000 budget or are confident that a play can be funded under a budget of $5000. (Data derived through Total Projects Column in excel sheet)
 
 ## Limitations & recommended analysis
 ---
 
 ### Outcomes based on launch date
 
-It is clear that success based on launch date is more evident in the months of May/June/July, which coincide with late Spring and early Summer in the Northern Hemisphere. It is important to determine if the inverse is seen in the Southern Hemisphere to understand the impact of seasonality and to assess if the tropical regions have a consistent success rate throughout the year as they are not impacted by seasonality.
+It is clear that success based on launch date is more evident in the months of May/June/July, which coincide with late Spring and early Summer in the Northern Hemisphere. It is important to determine if the inverse is seen in the Southern Hemisphere to understand the impact of seasonality and to further assess if any tropical regions have a consistent success rate throughout the year as they are not impacted by seasonality.
 
 Recommendation - Launch campaign between May-July
 
@@ -87,7 +87,7 @@ Further Analysis - Determine if seasonality plays a factor in campaign launch
 
 ### Outcomes based on goals
 
-Further understanding of regional impact is important. Success rate based on campaign goal may change by country, as disposable incomes will vary from country to country. For example, a country with lower disposable income may have a lower campaign success goal threshold when compared to that of a country with higher disposable income.
+Furthermore, understanding of regional impact is important. Success rate based on campaign goal may change by country, as disposable incomes will vary from country to country. For example, a country with lower disposable income may have a lower campaign success goal threshold when compared to that of a country with higher disposable income. This needs to be factored in when considering which region we intend to launch the campaign in.
 
 Recommendation - Set campaign goal to $5000
 
