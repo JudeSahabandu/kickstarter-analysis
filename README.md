@@ -14,7 +14,7 @@ The purpose of this report is to derive insight from 2 key analysis;
 
 The above, data points will provide insight into how to position our campaign launches based on time of year and the fund amount to raise, as factors within, may indicate the success rate of the fundraising campaign.
 
-## Analysis and Challenges
+## Analysis and challenges
 ---
 
 ### Analyzing outcomes based on launch date
@@ -59,7 +59,7 @@ Instead of: `COUNTIFS(Kickstarter!D:D,">=1000",Kickstarter!D:D,"<=4999.99",Kicks
 ## Analysis of the data
 ---
 
-### Outcomes Based on Launch Date
+### Outcomes based on launch date
 
 ![Outcomes_based_on_launch_date](/Resources/Theater_Outcomes_vs_Launch.png) 
 
@@ -67,21 +67,21 @@ Instead of: `COUNTIFS(Kickstarter!D:D,">=1000",Kickstarter!D:D,"<=4999.99",Kicks
 - Based on the above, the best time to launch a campaign is during the early summer months. But regional based data may be required to verify this. (To determine if the inverse is true for Southern Hemisphere countries compared to Northern hemisphere countries).
 - The analysis is very clear that the end and start of a year are the least favorable months to launch a successful campaign.
 
-### Outcomes Based on Goals
+### Outcomes based on goals
 
 ![Outcomes_based_on_goals](/Resources/Outcomes_vs_Goals.png) 
 
 - It is evident that campaigns with lower goals tend to have a higher success rate. Where almost 3 out of 4 campaigns ended up being successful where the campaign goal was below $5000.
 - Half the total campaigns for plays tend to have a campaign goal below $5000, which may indicate most play writers are targeting a $5000 budget or are confident that a play can be funded under a budget of $5000.
 
-## Limitations & Recommended Analysis
+## Limitations & recommended analysis
 ---
 
 ### Outcomes based on launch date
 
 It is clear that success based on launch date is more evident in the months of May/June/July, which coincide with late Spring and early Summer in the Northern Hemisphere. It is important to determine if the inverse is seen in the Southern Hemisphere to understand the impact of seasonality and to assess if the tropical regions cave a consistent success rate as they are not impacted by seasonality.
 
-Recommendation - Launch Campaign between May-July
+Recommendation - Launch campaign between May-July
 
 Further Analysis - Determine if seasonality plays a factor in campaign launch
 
