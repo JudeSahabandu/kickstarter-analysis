@@ -50,7 +50,7 @@ An example of the formula used to determine the count of successful, failed and 
 
 The required analysis was straightforward. The ability to analyze requirement A (Outcomes Based On Launch Dates) through a pivot table was time saving. But, when considering requirement B (Outcomes Based on Goals) using the `COUNTIFS` function and the associated formatting was time consuming.
 
-The key lesson learnt through structuring the data table for the outcomes based on goals chart was to use the correct inputs to ensure you can duplicate the data without having to format each individual cell formula. Placing the $ sign at the appropriate position within the formula helped to reduce rewriting most of formula when copying to other cells
+The key lesson learnt through structuring the data table for the outcomes based on goals chart was to use the correct inputs to ensure you can duplicate the data without having to format each individual cell formula. Placing the $ sign at the appropriate position within the formula helped to reduce rewriting most of formula when copying to other cells.
 
 Using: `COUNTIFS(Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<=4999.99",Kickstarter!$H:$H,"successful",Kickstarter!$T:$T,"plays")`
 
@@ -79,7 +79,7 @@ Instead of: `COUNTIFS(Kickstarter!D:D,">=1000",Kickstarter!D:D,"<=4999.99",Kicks
 
 ### Outcomes based on launch date
 
-It is clear that success based on launch date is more evident in the months of May/June/July, which coincide with late Spring and early Summer in the Northern Hemisphere. It is important to determine if the inverse is seen in the Southern Hemisphere to understand the impact of seasonality and to assess if the tropical regions cave a consistent success rate as they are not impacted by seasonality.
+It is clear that success based on launch date is more evident in the months of May/June/July, which coincide with late Spring and early Summer in the Northern Hemisphere. It is important to determine if the inverse is seen in the Southern Hemisphere to understand the impact of seasonality and to assess if the tropical regions have a consistent success rate throughout the year as they are not impacted by seasonality.
 
 Recommendation - Launch campaign between May-July
 
@@ -87,7 +87,7 @@ Further Analysis - Determine if seasonality plays a factor in campaign launch
 
 ### Outcomes based on goals
 
-Further understanding of regional impact is important. Success rate based on campaign goal will change by country, as disposable incomes will vary from country to country. For example, a country with lower disposable income may have a lower campaign success goal threshold when compared to that of a country with higher disposable income.
+Further understanding of regional impact is important. Success rate based on campaign goal may change by country, as disposable incomes will vary from country to country. For example, a country with lower disposable income may have a lower campaign success goal threshold when compared to that of a country with higher disposable income.
 
 Recommendation - Set campaign goal to $5000
 
